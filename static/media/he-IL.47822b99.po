@@ -28,8 +28,8 @@ msgid "${0}"
 msgstr "${0}"
 
 #: src/components/earn/PoolCard.tsx
-msgid "${0} ETH"
-msgstr "${0} ETH"
+msgid "${0} AVAX"
+msgstr "${0} AVAX"
 
 #: src/components/CurrencyInputPanel/index.tsx
 msgid "(Max)"
@@ -410,8 +410,8 @@ msgstr "לאסוף"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WETH"
-msgstr "אסוף כ- WETH"
+msgid "Collect as WAVAX"
+msgstr "אסוף כ- WAVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"
@@ -1884,8 +1884,8 @@ msgid "{0} Deposited"
 msgstr "{0} מופקד"
 
 #: src/components/Header/index.tsx
-msgid "{0} ETH"
-msgstr "{0} ETH"
+msgid "{0} AVAX"
+msgstr "{0} AVAX"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
