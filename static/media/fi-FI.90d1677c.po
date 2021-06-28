@@ -410,8 +410,8 @@ msgstr "Kerää"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Kerää WAVAX:na"
+msgid "Collect as AVAX"
+msgstr "Kerää AVAX:na"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

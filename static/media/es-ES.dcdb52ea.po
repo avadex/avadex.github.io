@@ -410,8 +410,8 @@ msgstr "Recoger"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Recoger como WAVAX"
+msgid "Collect as AVAX"
+msgstr "Recoger como AVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

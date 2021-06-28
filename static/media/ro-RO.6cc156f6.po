@@ -411,8 +411,8 @@ msgstr "Colectează"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Colectează ca WAVAX"
+msgid "Collect as AVAX"
+msgstr "Colectează ca AVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

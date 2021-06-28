@@ -410,8 +410,8 @@ msgstr "Συλλογή"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Συλλέξτε ως WAVAX"
+msgid "Collect as AVAX"
+msgstr "Συλλέξτε ως AVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

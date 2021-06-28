@@ -410,8 +410,8 @@ msgstr "Versamel"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Versamel as WAVAX"
+msgid "Collect as AVAX"
+msgstr "Versamel as AVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

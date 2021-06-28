@@ -410,8 +410,8 @@ msgstr "Indsaml"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Indsaml som WAVAX"
+msgid "Collect as AVAX"
+msgstr "Indsaml som AVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

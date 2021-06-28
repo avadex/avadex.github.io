@@ -410,8 +410,8 @@ msgstr "Mengumpulkan"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Kumpulkan sebagai WAVAX"
+msgid "Collect as AVAX"
+msgstr "Kumpulkan sebagai AVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

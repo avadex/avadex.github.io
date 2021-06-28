@@ -410,7 +410,7 @@ msgstr "Зібрати дані"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
+msgid "Collect as AVAX"
 msgstr "Збирати як ЗВЕДУ"
 
 #: src/pages/Pool/PositionPage.tsx

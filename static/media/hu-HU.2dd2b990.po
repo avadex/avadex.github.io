@@ -410,8 +410,8 @@ msgstr "Begyűjtés"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Begyűjtés WAVAX-ként"
+msgid "Collect as AVAX"
+msgstr "Begyűjtés AVAX-ként"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"
