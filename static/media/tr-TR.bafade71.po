@@ -410,8 +410,8 @@ msgstr "Toplamak"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as AVAX"
-msgstr "AVAX olarak toplayın"
+msgid "Collect as WAVAX"
+msgstr "WAVAX olarak toplayın"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

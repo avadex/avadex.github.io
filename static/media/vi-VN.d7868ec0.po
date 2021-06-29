@@ -410,8 +410,8 @@ msgstr "Sưu tầm"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as AVAX"
-msgstr "Thu thập dưới dạng AVAX"
+msgid "Collect as WAVAX"
+msgstr "Thu thập dưới dạng WAVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"
