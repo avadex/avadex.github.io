@@ -28,8 +28,8 @@ msgid "${0}"
 msgstr "${0}"
 
 #: src/components/earn/PoolCard.tsx
-msgid "${0} AVAX"
-msgstr "${0} AVAX"
+msgid "${0} ETH"
+msgstr "${0} ETH"
 
 #: src/components/CurrencyInputPanel/index.tsx
 msgid "(Max)"
@@ -438,8 +438,8 @@ msgstr "Sưu tầm"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WAVAX"
-msgstr "Thu thập dưới dạng WAVAX"
+msgid "Collect as WETH"
+msgstr "Thu thập dưới dạng WETH"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"
@@ -2000,8 +2000,8 @@ msgid "{0} Deposited"
 msgstr "{0} Đã gửi"
 
 #: src/components/Header/index.tsx
-msgid "{0} AVAX"
-msgstr "{0} AVAX"
+msgid "{0} ETH"
+msgstr "{0} ETH"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
