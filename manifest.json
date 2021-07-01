@@ -17,8 +17,8 @@
     }
   ],
   "orientation": "portrait",
-  "name": "V3TEST",
-  "short_name": "V3",
+  "name": "Uniswap",
+  "short_name": "Uniswap",
   "start_url": ".",
-  "theme_color": "#0211c7e0"
+  "theme_color": "#ff007a"
 }
