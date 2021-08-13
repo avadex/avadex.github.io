@@ -4,10 +4,10 @@
     "static/js/0.ccb52ffc.chunk.js.map": "./static/js/0.ccb52ffc.chunk.js.map",
     "static/js/1.7f20ce5f.chunk.js": "./static/js/1.7f20ce5f.chunk.js",
     "static/js/1.7f20ce5f.chunk.js.map": "./static/js/1.7f20ce5f.chunk.js.map",
-    "main.js": "./static/js/main.8d2efd76.chunk.js",
-    "main.js.map": "./static/js/main.8d2efd76.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.d3ca60af.js",
-    "runtime-main.js.map": "./static/js/runtime-main.d3ca60af.js.map",
+    "main.js": "./static/js/main.96333a0a.chunk.js",
+    "main.js.map": "./static/js/main.96333a0a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0a30ecd5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0a30ecd5.js.map",
     "static/css/4.9b452423.chunk.css": "./static/css/4.9b452423.chunk.css",
     "static/js/4.e53bee0f.chunk.js": "./static/js/4.e53bee0f.chunk.js",
     "static/js/4.e53bee0f.chunk.js.map": "./static/js/4.e53bee0f.chunk.js.map",
@@ -35,8 +35,8 @@
     "static/js/15.44229e2a.chunk.js.map": "./static/js/15.44229e2a.chunk.js.map",
     "static/js/16.67ce296f.chunk.js": "./static/js/16.67ce296f.chunk.js",
     "static/js/16.67ce296f.chunk.js.map": "./static/js/16.67ce296f.chunk.js.map",
-    "static/js/17.e6422aa5.chunk.js": "./static/js/17.e6422aa5.chunk.js",
-    "static/js/17.e6422aa5.chunk.js.map": "./static/js/17.e6422aa5.chunk.js.map",
+    "static/js/17.905534d6.chunk.js": "./static/js/17.905534d6.chunk.js",
+    "static/js/17.905534d6.chunk.js.map": "./static/js/17.905534d6.chunk.js.map",
     "static/js/18.420dd298.chunk.js": "./static/js/18.420dd298.chunk.js",
     "static/js/18.420dd298.chunk.js.map": "./static/js/18.420dd298.chunk.js.map",
     "static/js/19.aadf611e.chunk.js": "./static/js/19.aadf611e.chunk.js",
@@ -106,7 +106,7 @@
     "static/media/de-DE.po": "./static/media/de-DE.d0705f61.po",
     "static/media/dropdown.fef18eeb.svg": "./static/media/dropdown.fef18eeb.svg",
     "static/media/el-GR.po": "./static/media/el-GR.fcf5a04b.po",
-    "static/media/en-US.po": "./static/media/en-US.74eb2abe.po",
+    "static/media/en-US.po": "./static/media/en-US.e517e1ec.po",
     "static/media/es-ES.po": "./static/media/es-ES.4a063af2.po",
     "static/media/ethereum-logo.73b3f250.png": "./static/media/ethereum-logo.73b3f250.png",
     "static/media/fi-FI.po": "./static/media/fi-FI.914a9349.po",
@@ -145,9 +145,9 @@
     "static/media/zh-TW.po": "./static/media/zh-TW.3ba49366.po"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3ca60af.js",
+    "static/js/runtime-main.0a30ecd5.js",
     "static/css/4.9b452423.chunk.css",
     "static/js/4.e53bee0f.chunk.js",
-    "static/js/main.8d2efd76.chunk.js"
+    "static/js/main.96333a0a.chunk.js"
   ]
 }
