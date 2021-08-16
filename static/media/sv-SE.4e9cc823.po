@@ -1598,7 +1598,7 @@ msgid "Uniswap Governance"
 msgstr "Uniswap-styrning"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Uniswap V3 är här!"
 
 #: src/components/SwitchLocaleLink/index.tsx

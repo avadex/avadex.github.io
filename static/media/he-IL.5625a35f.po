@@ -1598,7 +1598,7 @@ msgid "Uniswap Governance"
 msgstr "ממשל לא מוחלף"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Un3wap V3 כבר כאן!"
 
 #: src/components/SwitchLocaleLink/index.tsx

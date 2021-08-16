@@ -1599,7 +1599,7 @@ msgid "Uniswap Governance"
 msgstr "Uniswap irányítás"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Itt van az Uniswap V3!"
 
 #: src/components/SwitchLocaleLink/index.tsx

@@ -60,6 +60,10 @@ msgstr "- Remove send"
 msgid "-{feeAmountFormatted}%"
 msgstr "-{feeAmountFormatted}%"
 
+#: src/components/SearchModal/CommonBases.tsx
+msgid ".e tokens represent assets on ethereum."
+msgstr ".e tokens represent assets on ethereum."
+
 #: src/components/earn/PoolCard.tsx
 #: src/components/earn/PoolCard.tsx
 #: src/pages/Earn/Manage.tsx
@@ -291,13 +295,17 @@ msgstr "Auto"
 msgid "Available to deposit: {0}"
 msgstr "Available to deposit: {0}"
 
-#: src/components/Header/NetworkCard.tsx
-msgid "Avalanche AVAX Bridge"
-msgstr "Avalanche AVAX Bridge"
+#: 
+#~ msgid "Avalanche ETH_Bridge"
+#~ msgstr "Avalanche ETH_Bridge"
+
+#: 
+#~ msgid "Avax Explorer"
+#~ msgstr "Avax Explorer"
 
 #: src/components/Header/NetworkCard.tsx
-msgid "Avax Explorer"
-msgstr "Avax Explorer"
+msgid "BACK to AVAX"
+msgstr "BACK to AVAX"
 
 #: src/components/WalletModal/index.tsx
 msgid "Back"
@@ -351,9 +359,9 @@ msgstr "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service
 msgid "Change"
 msgstr "Change"
 
-#: src/components/Header/NetworkCard.tsx
-msgid "Change your network to go back to AVAX"
-msgstr "Change your network to go back to AVAX"
+#: 
+#~ msgid "Change your network to go back to AVAX"
+#~ msgstr "Change your network to go back to AVAX"
 
 #: 
 #~ msgid "Change your network to go back to L1"
@@ -363,9 +371,9 @@ msgstr "Change your network to go back to AVAX"
 msgid "Charts"
 msgstr "Charts"
 
-#: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
-msgstr "Check out our v3 LP walkthrough and migration guides."
+#: 
+#~ msgid "Check out our v3 LP walkthrough and migration guides."
+#~ msgstr "Check out our v3 LP walkthrough and migration guides."
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/ClaimRewardModal.tsx
@@ -474,9 +482,9 @@ msgstr "Collecting fees"
 msgid "Collecting fees will withdraw currently available fees for you."
 msgstr "Collecting fees will withdraw currently available fees for you."
 
-#: src/components/SearchModal/CommonBases.tsx
-msgid "Common bases"
-msgstr "Common bases"
+#: 
+#~ msgid "Common bases"
+#~ msgstr "Common bases"
 
 #: src/components/Menu/index.tsx
 msgid "Community"
@@ -678,6 +686,10 @@ msgstr "Docs"
 msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Don’t see one of your v2 positions? <0>Import it.</0>"
 
+#: src/components/Header/NetworkCard.tsx
+msgid "ETH_Bridge"
+msgstr "ETH_Bridge"
+
 #: src/components/vote/DelegateModal.tsx
 msgid "Earned UNI tokens represent voting shares in Uniswap governance."
 msgstr "Earned UNI tokens represent voting shares in Uniswap governance."
@@ -750,6 +762,10 @@ msgstr "Explore popular pools on Analytics."
 #: 
 #~ msgid "Explore popular pools on Uniswap Analytics."
 #~ msgstr "Explore popular pools on Uniswap Analytics."
+
+#: src/components/Header/NetworkCard.tsx
+msgid "Explorer"
+msgstr "Explorer"
 
 #: src/components/SwitchLocaleLink/index.tsx
 msgid "FOR TESTING ONLY: <0>{0}</0>"
@@ -1433,6 +1449,10 @@ msgstr "Swapping {0} {1} for {2} {3}"
 msgid "Switch to Ethereum"
 msgstr "Switch to Ethereum"
 
+#: 
+#~ msgid "TEST release of HaydenV3 on Avalanche network. Bridge AVAX assets on L0."
+#~ msgstr "TEST release of HaydenV3 on Avalanche network. Bridge AVAX assets on L0."
+
 #: src/components/Popups/ClaimPopup.tsx
 msgid "Thanks for being part of the Uniswap community <0/>"
 msgstr "Thanks for being part of the Uniswap community <0/>"
@@ -1473,17 +1493,17 @@ msgstr "The ratio of tokens you add will set the price of this pool."
 msgid "The transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low."
 msgstr "The transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low."
 
-#: src/components/SearchModal/CommonBases.tsx
-msgid "These tokens are commonly paired with other tokens."
-msgstr "These tokens are commonly paired with other tokens."
+#: 
+#~ msgid "These tokens are commonly paired with other tokens."
+#~ msgstr "These tokens are commonly paired with other tokens."
 
 #: 
-#~ msgid "This is an alpha release of UNIv3/WAVAX on the Avalanche network. You can bridge AVAX assets to the network to swap them."
-#~ msgstr "This is an alpha release of UNIv3/WAVAX on the Avalanche network. You can bridge AVAX assets to the network to swap them."
+#~ msgid "This is an alpha release of UNIv3/WAVAX on the Avalanche network. You can bridge _ETH assets to the network to swap them."
+#~ msgstr "This is an alpha release of UNIv3/WAVAX on the Avalanche network. You can bridge _ETH assets to the network to swap them."
 
-#: src/components/swap/SwapNetworkAlert.tsx
-msgid "This is an alpha release of V3/WAVAX on the Avalanche network. You can bridge AVAX assets to the network."
-msgstr "This is an alpha release of V3/WAVAX on the Avalanche network. You can bridge AVAX assets to the network."
+#: 
+#~ msgid "This is an alpha release of V3/WAVAX on the Avalanche network. You can bridge _ETH assets to the network."
+#~ msgstr "This is an alpha release of V3/WAVAX on the Avalanche network. You can bridge _ETH assets to the network."
 
 #: src/components/SearchModal/ImportToken.tsx
 msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
@@ -1519,6 +1539,10 @@ msgstr "To (at least)"
 #: src/components/Settings/index.tsx
 msgid "Toggle Expert Mode"
 msgstr "Toggle Expert Mode"
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Token base"
+msgstr "Token base"
 
 #: src/components/SearchModal/Manage.tsx
 msgid "Tokens"
@@ -1619,8 +1643,8 @@ msgid "Uniswap Governance"
 msgstr "Uniswap Governance"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
-msgstr "Uniswap V3 is here!"
+msgid "V3 is here!"
+msgstr "V3 is here!"
 
 #: src/pages/Earn/index.tsx
 msgid "Uniswap liquidity mining"
@@ -1630,9 +1654,9 @@ msgstr "Uniswap liquidity mining"
 msgid "Uniswap migration contract↗"
 msgstr "Uniswap migration contract↗"
 
-#: src/components/swap/SwapNetworkAlert.tsx
-msgid "Uniswap on <0>Arbitrum</0>"
-msgstr "Uniswap on <0>Arbitrum</0>"
+#: 
+#~ msgid "Uniswap on <0>Arbitrum</0>"
+#~ msgstr "Uniswap on <0>Arbitrum</0>"
 
 #: src/components/SearchModal/ImportToken.tsx
 msgid "Unknown Source"
@@ -1689,14 +1713,34 @@ msgstr "V2 liquidity"
 msgid "V3"
 msgstr "V3"
 
+#: src/pages/Pool/CTACards.tsx
+msgid "V3 Build on Avalanche."
+msgstr "V3 Build on Avalanche."
+
 #: src/components/Header/URLWarning.tsx
 msgid "V3 TEST ONLY -AVA<0>NOT AUDITED </0> - V3."
 msgstr "V3 TEST ONLY -AVA<0>NOT AUDITED </0> - V3."
+
+#: src/components/swap/SwapNetworkAlert.tsx
+msgid "V3 Testrelease on Avalanche network."
+msgstr "V3 Testrelease on Avalanche network."
+
+#: 
+#~ msgid "V3 Testrelease on Avalanche network. Bridge AVAX assets on L0."
+#~ msgstr "V3 Testrelease on Avalanche network. Bridge AVAX assets on L0."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "V3 {0} Price:"
 msgstr "V3 {0} Price:"
+
+#: 
+#~ msgid "V3swap  <0>Avalanche</0>"
+#~ msgstr "V3swap  <0>Avalanche</0>"
+
+#: src/components/swap/SwapNetworkAlert.tsx
+msgid "V3swap <0>Avalanche</0>"
+msgstr "V3swap <0>Avalanche</0>"
 
 #: src/components/Header/UniBalanceContent.tsx
 msgid "View UNI Analytics"
