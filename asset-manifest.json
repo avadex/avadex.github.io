@@ -4,10 +4,10 @@
     "static/js/0.202acd4b.chunk.js.map": "./static/js/0.202acd4b.chunk.js.map",
     "static/js/1.7b806053.chunk.js": "./static/js/1.7b806053.chunk.js",
     "static/js/1.7b806053.chunk.js.map": "./static/js/1.7b806053.chunk.js.map",
-    "main.js": "./static/js/main.c3205a8f.chunk.js",
-    "main.js.map": "./static/js/main.c3205a8f.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.742dfc88.js",
-    "runtime-main.js.map": "./static/js/runtime-main.742dfc88.js.map",
+    "main.js": "./static/js/main.0c092a79.chunk.js",
+    "main.js.map": "./static/js/main.0c092a79.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e99f662f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e99f662f.js.map",
     "static/css/4.2efb9cd0.chunk.css": "./static/css/4.2efb9cd0.chunk.css",
     "static/js/4.461e18cb.chunk.js": "./static/js/4.461e18cb.chunk.js",
     "static/js/4.461e18cb.chunk.js.map": "./static/js/4.461e18cb.chunk.js.map",
@@ -35,8 +35,8 @@
     "static/js/15.ff9666fb.chunk.js.map": "./static/js/15.ff9666fb.chunk.js.map",
     "static/js/16.182b5b0e.chunk.js": "./static/js/16.182b5b0e.chunk.js",
     "static/js/16.182b5b0e.chunk.js.map": "./static/js/16.182b5b0e.chunk.js.map",
-    "static/js/17.fb9dbbad.chunk.js": "./static/js/17.fb9dbbad.chunk.js",
-    "static/js/17.fb9dbbad.chunk.js.map": "./static/js/17.fb9dbbad.chunk.js.map",
+    "static/js/17.9567e261.chunk.js": "./static/js/17.9567e261.chunk.js",
+    "static/js/17.9567e261.chunk.js.map": "./static/js/17.9567e261.chunk.js.map",
     "static/js/18.d96805af.chunk.js": "./static/js/18.d96805af.chunk.js",
     "static/js/18.d96805af.chunk.js.map": "./static/js/18.d96805af.chunk.js.map",
     "static/js/19.8e3cdc00.chunk.js": "./static/js/19.8e3cdc00.chunk.js",
@@ -95,7 +95,7 @@
     "static/media/inter.css": "./static/media/Inter.var.9df5db38.woff2",
     "static/media/af-ZA.po": "./static/media/af-ZA.6f1ca326.po",
     "static/media/ar-SA.po": "./static/media/ar-SA.6a0f5271.po",
-    "static/media/arbitrum_logo.8354e9b6.svg": "./static/media/arbitrum_logo.8354e9b6.svg",
+    "static/media/arbitrum_logo.ec8e5080.svg": "./static/media/arbitrum_logo.ec8e5080.svg",
     "static/media/arbitrum_mask.83666523.svg": "./static/media/arbitrum_mask.83666523.svg",
     "static/media/arrow-right.956d575c.svg": "./static/media/arrow-right.956d575c.svg",
     "static/media/big_unicorn.595c4996.png": "./static/media/big_unicorn.595c4996.png",
@@ -107,7 +107,7 @@
     "static/media/de-DE.po": "./static/media/de-DE.58751229.po",
     "static/media/dropdown.fef18eeb.svg": "./static/media/dropdown.fef18eeb.svg",
     "static/media/el-GR.po": "./static/media/el-GR.86e5bbe8.po",
-    "static/media/en-US.po": "./static/media/en-US.64eaf4f0.po",
+    "static/media/en-US.po": "./static/media/en-US.6e2e6606.po",
     "static/media/es-ES.po": "./static/media/es-ES.3287282d.po",
     "static/media/ethereum-logo.73b3f250.png": "./static/media/ethereum-logo.73b3f250.png",
     "static/media/fi-FI.po": "./static/media/fi-FI.1bc60b88.po",
@@ -146,9 +146,9 @@
     "static/media/zh-TW.po": "./static/media/zh-TW.3c908b8b.po"
   },
   "entrypoints": [
-    "static/js/runtime-main.742dfc88.js",
+    "static/js/runtime-main.e99f662f.js",
     "static/css/4.2efb9cd0.chunk.css",
     "static/js/4.461e18cb.chunk.js",
-    "static/js/main.c3205a8f.chunk.js"
+    "static/js/main.0c092a79.chunk.js"
   ]
 }
