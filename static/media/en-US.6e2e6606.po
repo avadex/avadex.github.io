@@ -25,8 +25,8 @@ msgid "${0}"
 msgstr "${0}"
 
 #: src/components/earn/PoolCard.tsx
-msgid "${0} ETH"
-msgstr "${0} ETH"
+msgid "${0} AVAX"
+msgstr "${0} AVAX"
 
 #: src/components/CurrencyInputPanel/index.tsx
 msgid "(Max)"
@@ -292,8 +292,8 @@ msgid "Available to deposit: {0}"
 msgstr "Available to deposit: {0}"
 
 #: src/components/Header/NetworkCard.tsx
-msgid "Avalanche ETH Bridge"
-msgstr "Avalanche ETH Bridge"
+msgid "Avalanche AVAX Bridge"
+msgstr "Avalanche AVAX Bridge"
 
 #: src/components/Header/NetworkCard.tsx
 msgid "Avax Explorer"
@@ -352,8 +352,8 @@ msgid "Change"
 msgstr "Change"
 
 #: src/components/Header/NetworkCard.tsx
-msgid "Change your network to go back to ETH"
-msgstr "Change your network to go back to ETH"
+msgid "Change your network to go back to AVAX"
+msgstr "Change your network to go back to AVAX"
 
 #: 
 #~ msgid "Change your network to go back to L1"
@@ -1478,12 +1478,12 @@ msgid "These tokens are commonly paired with other tokens."
 msgstr "These tokens are commonly paired with other tokens."
 
 #: 
-#~ msgid "This is an alpha release of UNIv3/WAVAX on the Avalanche network. You can bridge ETH assets to the network to swap them."
-#~ msgstr "This is an alpha release of UNIv3/WAVAX on the Avalanche network. You can bridge ETH assets to the network to swap them."
+#~ msgid "This is an alpha release of UNIv3/WAVAX on the Avalanche network. You can bridge AVAX assets to the network to swap them."
+#~ msgstr "This is an alpha release of UNIv3/WAVAX on the Avalanche network. You can bridge AVAX assets to the network to swap them."
 
 #: src/components/swap/SwapNetworkAlert.tsx
-msgid "This is an alpha release of V3/WAVAX on the Avalanche network. You can bridge ETH assets to the network."
-msgstr "This is an alpha release of V3/WAVAX on the Avalanche network. You can bridge ETH assets to the network."
+msgid "This is an alpha release of V3/WAVAX on the Avalanche network. You can bridge AVAX assets to the network."
+msgstr "This is an alpha release of V3/WAVAX on the Avalanche network. You can bridge AVAX assets to the network."
 
 #: src/components/SearchModal/ImportToken.tsx
 msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
@@ -2021,8 +2021,8 @@ msgid "{0} Deposited"
 msgstr "{0} Deposited"
 
 #: src/components/Header/index.tsx
-msgid "{0} ETH"
-msgstr "{0} ETH"
+msgid "{0} AVAX"
+msgstr "{0} AVAX"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
