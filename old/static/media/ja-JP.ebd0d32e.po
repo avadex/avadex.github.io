@@ -1469,7 +1469,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "このトークンはご利用中のトークンリストに存在しません。取引したいトークンであることを確認してください。"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgid "This tool will safely migrate your {0} liquidity to V3. "
 msgstr "本ツールで {0} の流動性をV3に安全に移行します。このプロセスは以下によって特定の第三者を信用する必要が一切ないものになっています。"
 
 #: src/hooks/useSwapCallback.ts
