@@ -1469,7 +1469,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Овај токен се не појављује на листи активних токена. Уверите се да је ово жетон којим желите да тргујете."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "This tool will safely migrate your {0} liquidity to V3. "
+msgid "This tool can migrate your {0} liquidity to V3. "
 msgstr "Овај алат ће безбедно пребацити вашу {0} ликвидност на V3. Процес је потпуно неповерљив захваљујући"
 
 #: src/hooks/useSwapCallback.ts

@@ -1383,7 +1383,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Bu belirteç, etkin belirteç listelerinde görünmüyor. Bunun takas etmek istediğiniz jeton olduğundan emin olun."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "This tool will safely migrate your {0} liquidity to V3. "
+msgid "This tool can migrate your {0} liquidity to V3. "
 msgstr "{0} likiditenizi güvenli bir şekilde V3'e taşıyacaktır. İşlem, sayesinde tamamen güvensizdir."
 
 #: src/hooks/useSwapCallback.ts

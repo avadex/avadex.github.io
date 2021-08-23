@@ -1469,7 +1469,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Este token no aparece en las listas de tokens activos. Asegúrese de que este sea el token que desea intercambiar."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "This tool will safely migrate your {0} liquidity to V3. "
+msgid "This tool can migrate your {0} liquidity to V3. "
 msgstr "Esta herramienta migrará su liquidez {0} a V3. El proceso es totalmente infalible gracias a la"
 
 #: src/hooks/useSwapCallback.ts

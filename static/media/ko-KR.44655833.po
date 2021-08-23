@@ -1600,7 +1600,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "이 토큰은 활성 토큰 목록에 표시되지 않습니다. 이것이 거래하려는 토큰인지 확인하십시오."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "This tool will safely migrate your {0} liquidity to V3. "
+msgid "This tool can migrate your {0} liquidity to V3. "
 msgstr "이 도구로 {0} 유동성을 V3로 안전하게 마이그레이션할 수 있습니다. 이 과정은 다음 덕분에 신뢰할 수 있습니다."
 
 #: src/hooks/useSwapCallback.ts

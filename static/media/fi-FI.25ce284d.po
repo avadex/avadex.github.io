@@ -1600,7 +1600,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Tätä rahaketta ei näy aktiivisissa rahakeluetteloissa. Varmista, että tämä on rahake, jonka haluat vaihtaa."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "This tool will safely migrate your {0} liquidity to V3. "
+msgid "This tool can migrate your {0} liquidity to V3. "
 msgstr "Tämä työkalu siirtää {0} likviditeettisi turvallisesti V3:lle. Prosessi on täysin luotettava kiitos"
 
 #: src/hooks/useSwapCallback.ts

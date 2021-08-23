@@ -1600,7 +1600,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Ce jeton n'apparaît pas sur la ou les listes de jetons actifs. Assurez-vous qu'il s'agit du jeton que vous souhaitez échanger."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "This tool will safely migrate your {0} liquidity to V3. "
+msgid "This tool can migrate your {0} liquidity to V3. "
 msgstr "Cet outil va migrer en toute sécurité vos liquidités {0} vers V3. Le processus est complètement sans confiance grâce à la"
 
 #: src/hooks/useSwapCallback.ts

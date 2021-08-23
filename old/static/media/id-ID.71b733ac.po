@@ -1383,7 +1383,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Token ini tidak muncul di daftar token yang aktif. Pastikan ini adalah token yang ingin Anda perdagangkan."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "This tool will safely migrate your {0} liquidity to V3. "
+msgid "This tool can migrate your {0} liquidity to V3. "
 msgstr "Alat ini akan memindahkan {0} likuiditas Anda ke V3 dengan aman. Prosesnya benar-benar tidak dapat dipercaya berkat"
 
 #: src/hooks/useSwapCallback.ts
