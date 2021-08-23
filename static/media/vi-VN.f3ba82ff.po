@@ -782,7 +782,7 @@ msgid "For"
 msgstr "Đối với"
 
 #: src/pages/MigrateV2/index.tsx
-msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into Uniswap V3."
+msgid "THIS IS NOT FULLY TESTED"
 msgstr "Đối với mỗi pool được hiển thị bên dưới, hãy nhấp vào di chuyển để xóa thanh khoản của bạn khỏi Uniswap V2 và gửi nó vào Uniswap V3."
 
 #: src/components/swap/SwapModalHeader.tsx

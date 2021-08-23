@@ -782,7 +782,7 @@ msgid "For"
 msgstr "ל"
 
 #: src/pages/MigrateV2/index.tsx
-msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into Uniswap V3."
+msgid "THIS IS NOT FULLY TESTED"
 msgstr "עבור כל מאגר המוצג למטה, לחץ על העבר כדי להסיר את הנזילות שלך מ- Uniswap V2 והפקד אותו ל- Uniswap V3."
 
 #: src/components/swap/SwapModalHeader.tsx
