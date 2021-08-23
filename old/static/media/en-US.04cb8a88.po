@@ -1623,8 +1623,8 @@ msgid "Uniswap V3 is here!"
 msgstr "Uniswap V3 is here!"
 
 #: 
-#~ msgid "Uniswap available in: <0>{0}</0>"
-#~ msgstr "Uniswap available in: <0>{0}</0>"
+#~ msgid "Experimental Testing: <0>{0}</0>"
+#~ msgstr "Experimental Testing: <0>{0}</0>"
 
 #: src/pages/Earn/index.tsx
 msgid "Uniswap liquidity mining"

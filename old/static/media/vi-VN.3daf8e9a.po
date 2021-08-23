@@ -1602,7 +1602,7 @@ msgid "Uniswap V3 is here!"
 msgstr "Uniswap V3 ở đây!"
 
 #: src/components/SwitchLocaleLink/index.tsx
-msgid "Uniswap available in: <0>{0}</0>"
+msgid "Experimental Testing: <0>{0}</0>"
 msgstr "Uniswap có sẵn ở: <0>{0}</0>"
 
 #: src/pages/Earn/index.tsx

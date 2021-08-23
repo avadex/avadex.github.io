@@ -1738,7 +1738,7 @@ msgid "Uniswap Governance"
 msgstr "Správa Uniswap"
 
 #: src/components/SwitchLocaleLink/index.tsx
-msgid "Uniswap available in: <0>{0}</0>"
+msgid "Experimental Testing: <0>{0}</0>"
 msgstr "Uniswap k dispozici za: <0>{0}</0>"
 
 #: src/components/vote/ProposalEmptyState.tsx

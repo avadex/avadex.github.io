@@ -1510,7 +1510,7 @@ msgid "Uniswap V3 is here!"
 msgstr "Uniswap V3 is er!"
 
 #: src/components/SwitchLocaleLink/index.tsx
-msgid "Uniswap available in: <0>{0}</0>"
+msgid "Experimental Testing: <0>{0}</0>"
 msgstr "Uniswap beschikbaar in: <0>{0}</0>"
 
 #: src/pages/Earn/index.tsx
