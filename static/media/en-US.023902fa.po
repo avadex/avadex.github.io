@@ -1516,16 +1516,16 @@ msgid "Swap"
 msgstr "Swap"
 
 #: src/components/swap/SwapHeader.tsx
-msgid "Swap AVA V3 Testing"
-msgstr "Swap AVA V3 Testing"
+msgid "Swap wavax !Testing ONLY"
+msgstr "Swap wavax !Testing ONLY"
 
 #: 
-#~ msgid "Swap AVA V3 Testing / AVALANCHE 1"
-#~ msgstr "Swap AVA V3 Testing / AVALANCHE 1"
+#~ msgid "Swap wavax !Testing ONLY / AVALANCHE 1"
+#~ msgstr "Swap wavax !Testing ONLY / AVALANCHE 1"
 
 #: 
-#~ msgid "Swap AVA V3 Testing / AVALANCHE 1.1"
-#~ msgstr "Swap AVA V3 Testing / AVALANCHE 1.1"
+#~ msgid "Swap wavax !Testing ONLY / AVALANCHE 1.1"
+#~ msgstr "Swap wavax !Testing ONLY / AVALANCHE 1.1"
 
 #: src/pages/Swap/index.tsx
 #: src/pages/Swap/index.tsx
