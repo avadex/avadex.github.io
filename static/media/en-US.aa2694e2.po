@@ -1622,12 +1622,12 @@ msgstr "This is an TEST release of Uniswap on the {0} network."
 #~ msgstr "This is an alpha release of Uniswap on the {0} network. You must bridge L1 assets to the network to swap them."
 
 #: src/components/NetworkAlert/NetworkAlert.tsx
-msgid "This is an test release of Uniswap V3 on the Avalanche live network. You can bridge Ethereum assets to this EVM called C-CHAIN."
-msgstr "This is an test release of Uniswap V3 on the Avalanche live network. You can bridge Ethereum assets to this EVM called C-CHAIN."
+msgid "This is an test release of the Uniswap V3 Code on the Avalanche live network. You can bridge Ethereum assets to this EVM called C-CHAIN."
+msgstr "This is an test release of the Uniswap V3 Code on the Avalanche live network. You can bridge Ethereum assets to this EVM called C-CHAIN."
 
 #: src/components/NetworkAlert/MinimalNetworkAlert.tsx
-msgid "This is an test release of Uniswap V3 on the {0} network."
-msgstr "This is an test release of Uniswap V3 on the {0} network."
+msgid "This is an test release of the Uniswap V3 Code on the {0} network."
+msgstr "This is an test release of the Uniswap V3 Code on the {0} network."
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
