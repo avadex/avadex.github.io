@@ -1881,7 +1881,7 @@ msgid "Unwrap"
 msgstr "Одмотај"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Unwrap <0/> to AVAX"
+msgid "Unwrap <0/> to ETH"
 msgstr "Одмотајте <0/> на ЕТХ"
 
 #: src/pages/Vote/index.tsx
@@ -2299,8 +2299,8 @@ msgstr "{0} Депоновано"
 
 #: src/components/Header/index.tsx
 #: src/components/earn/PoolCard.tsx
-msgid "{0} AVAX"
-msgstr "{0} AVAX"
+msgid "{0} ETH"
+msgstr "{0} ETH"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 #: src/pages/RemoveLiquidity/V3.tsx

@@ -1882,8 +1882,8 @@ msgid "Unwrap"
 msgstr "Kicsomagolás"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Unwrap <0/> to AVAX"
-msgstr "Csomagolja ki a (z) <0/> gombot AVAX -ra"
+msgid "Unwrap <0/> to ETH"
+msgstr "Csomagolja ki a (z) <0/> gombot ETH -ra"
 
 #: src/pages/Vote/index.tsx
 msgid "Update Delegation"
@@ -2300,8 +2300,8 @@ msgstr "{0} letétbe helyezve"
 
 #: src/components/Header/index.tsx
 #: src/components/earn/PoolCard.tsx
-msgid "{0} AVAX"
-msgstr "{0} AVAX"
+msgid "{0} ETH"
+msgstr "{0} ETH"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
