@@ -436,8 +436,8 @@ msgstr "לגבות"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WETH"
-msgstr "לגבות כ- WETH"
+msgid "Collect as WAVAX"
+msgstr "לגבות כ- WAVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"
@@ -1881,8 +1881,8 @@ msgid "Unwrap"
 msgstr "לְגוֹלֵל"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Unwrap <0/> to ETH"
-msgstr "פרק את <0/> ל- ETH"
+msgid "Unwrap <0/> to AVAX"
+msgstr "פרק את <0/> ל- AVAX"
 
 #: src/pages/Vote/index.tsx
 msgid "Update Delegation"
@@ -2072,8 +2072,8 @@ msgid "Wrap"
 msgstr "לַעֲטוֹף"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Wrap <0/> to WETH"
-msgstr "עטפו את <0/> ל- WETH"
+msgid "Wrap <0/> to WAVAX"
+msgstr "עטפו את <0/> ל- WAVAX"
 
 #: src/components/WalletModal/index.tsx
 #: src/components/Web3Status/index.tsx
@@ -2299,8 +2299,8 @@ msgstr "{0} מופקד"
 
 #: src/components/Header/index.tsx
 #: src/components/earn/PoolCard.tsx
-msgid "{0} ETH"
-msgstr "{0} ETH"
+msgid "{0} AVAX"
+msgstr "{0} AVAX"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 #: src/pages/RemoveLiquidity/V3.tsx

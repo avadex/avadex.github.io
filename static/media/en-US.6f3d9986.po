@@ -431,8 +431,8 @@ msgstr "Collect"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WETH"
-msgstr "Collect as WETH"
+msgid "Collect as WAVAX"
+msgstr "Collect as WAVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"
@@ -2067,8 +2067,8 @@ msgid "Wrap"
 msgstr "Wrap"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Wrap <0/> to WETH"
-msgstr "Wrap <0/> to WETH"
+msgid "Wrap <0/> to WAVAX"
+msgstr "Wrap <0/> to WAVAX"
 
 #: src/components/WalletModal/index.tsx
 #: src/components/Web3Status/index.tsx

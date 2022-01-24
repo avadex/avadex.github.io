@@ -429,7 +429,7 @@ msgstr "Raccogli"
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "Collect as WAVAX"
-msgstr "Raccogli come WETH"
+msgstr "Raccogli come WAVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

@@ -436,8 +436,8 @@ msgstr "Samle"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WETH"
-msgstr "Samle som WETH"
+msgid "Collect as WAVAX"
+msgstr "Samle som WAVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"
@@ -1881,8 +1881,8 @@ msgid "Unwrap"
 msgstr "Pakk opp"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Unwrap <0/> to ETH"
-msgstr "Pakk ut <0/> til ETH"
+msgid "Unwrap <0/> to AVAX"
+msgstr "Pakk ut <0/> til AVAX"
 
 #: src/pages/Vote/index.tsx
 msgid "Update Delegation"
@@ -2072,8 +2072,8 @@ msgid "Wrap"
 msgstr "Bryt"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Wrap <0/> to WETH"
-msgstr "Fest <0/> til WETH"
+msgid "Wrap <0/> to WAVAX"
+msgstr "Fest <0/> til WAVAX"
 
 #: src/components/WalletModal/index.tsx
 #: src/components/Web3Status/index.tsx
@@ -2299,8 +2299,8 @@ msgstr "{0} Innskutt"
 
 #: src/components/Header/index.tsx
 #: src/components/earn/PoolCard.tsx
-msgid "{0} ETH"
-msgstr "{0} ETH"
+msgid "{0} AVAX"
+msgstr "{0} AVAX"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 #: src/pages/RemoveLiquidity/V3.tsx

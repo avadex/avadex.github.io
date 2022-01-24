@@ -429,7 +429,7 @@ msgstr "اجمع"
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "Collect as WAVAX"
-msgstr "اجمع كـ WETH"
+msgstr "اجمع كـ WAVAX"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"

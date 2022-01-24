@@ -436,8 +436,8 @@ msgstr "Begyűjtés"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
-msgid "Collect as WETH"
-msgstr "Begyűjtés WETH-ként"
+msgid "Collect as WAVAX"
+msgstr "Begyűjtés WAVAX-ként"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Collect fees"
@@ -1882,8 +1882,8 @@ msgid "Unwrap"
 msgstr "Kicsomagolás"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Unwrap <0/> to ETH"
-msgstr "Csomagolja ki a (z) <0/> gombot ETH -ra"
+msgid "Unwrap <0/> to AVAX"
+msgstr "Csomagolja ki a (z) <0/> gombot AVAX -ra"
 
 #: src/pages/Vote/index.tsx
 msgid "Update Delegation"
@@ -2073,8 +2073,8 @@ msgid "Wrap"
 msgstr "Becsomagolás"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Wrap <0/> to WETH"
-msgstr "Tekerje a <0/> elemet WETH -re"
+msgid "Wrap <0/> to WAVAX"
+msgstr "Tekerje a <0/> elemet WAVAX -re"
 
 #: src/components/WalletModal/index.tsx
 #: src/components/Web3Status/index.tsx
@@ -2300,8 +2300,8 @@ msgstr "{0} letétbe helyezve"
 
 #: src/components/Header/index.tsx
 #: src/components/earn/PoolCard.tsx
-msgid "{0} ETH"
-msgstr "{0} ETH"
+msgid "{0} AVAX"
+msgstr "{0} AVAX"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
