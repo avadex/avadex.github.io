@@ -1,7 +1,7 @@
 {
   "background_color": "#738534",
   "display": "standalone",
-  "homepage_url": "https://app.uniswap.org",
+  "homepage_url": "https://wavax.org",
   "providedBy": { "name": "Wavaxorg", "url": "https://wavax.org" },
   "icons": [
     {
@@ -18,8 +18,8 @@
     }
   ],
   "orientation": "portrait",
-  "name": "Uniswap",
-  "description": "Swap or provide liquidity on the V3 Protocol",
+  "name": "Wavaxorg",
+  "description": "Swap or lp on the V3 Protocol",
   "iconPath": "./images/256x256_App_Icon_Pink.svg",
   "short_name": "WAVAXorg",
   "start_url": ".",
