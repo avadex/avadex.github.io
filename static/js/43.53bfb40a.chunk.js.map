@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../interface-4.42.0/src/locales/README.md"],"names":[],"mappings":"iIAAA,OAAe,cAA0B","file":"static/js/43.53bfb40a.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/README.4c4937e5.md\";"],"sourceRoot":""}
+{"version":3,"sources":["locales/README.md"],"names":[],"mappings":"iIAAA,OAAe,cAA0B","file":"static/js/43.53bfb40a.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/README.4c4937e5.md\";"],"sourceRoot":""}

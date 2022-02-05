@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../interface-4.42.0/src/locales/pt-BR.po"],"names":[],"mappings":"iIAAA,OAAe,cAA0B","file":"static/js/64.0e25869f.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/pt-BR.a81d5277.po\";"],"sourceRoot":""}
+{"version":3,"sources":["locales/pt-BR.po"],"names":[],"mappings":"iIAAA,OAAe,cAA0B","file":"static/js/64.0e25869f.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/pt-BR.a81d5277.po\";"],"sourceRoot":""}
