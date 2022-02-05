@@ -1,1 +1,1 @@
-{"version":3,"sources":["locales/ko-KR.po"],"names":[],"mappings":"iIAAA,OAAe,cAA0B","file":"static/js/60.6923bcc2.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/ko-KR.89e0b564.po\";"],"sourceRoot":""}
+{"version":3,"sources":["../../interface-4.42.0/src/locales/ko-KR.po"],"names":[],"mappings":"iIAAA,OAAe,cAA0B","file":"static/js/60.6923bcc2.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/ko-KR.89e0b564.po\";"],"sourceRoot":""}
