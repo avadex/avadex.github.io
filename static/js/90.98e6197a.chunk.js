@@ -1,2 +1,0 @@
-(this["webpackJsonp@uniswap/widgets"]=this["webpackJsonp@uniswap/widgets"]||[]).push([[90],{632:function(e,s,n){"use strict";n.r(s),n.d(s,"css",(function(){return t})),n.d(s,"keyframes",(function(){return u})),n.d(s,"useTheme",(function(){return i})),n.d(s,"ThemedProvider",(function(){return d}));var r=n(4);s.default=r.default;var t=r.css,u=r.keyframes,i=r.useTheme,d=r.ThemeProvider}}]);
-//# sourceMappingURL=90.98e6197a.chunk.js.map

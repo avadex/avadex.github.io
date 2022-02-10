@@ -1,0 +1,2 @@
+(this["webpackJsonp@uniswap/widgets"]=this["webpackJsonp@uniswap/widgets"]||[]).push([[89],{653:function(t,n,i){"use strict";i.r(n),i.d(n,"TransactionType",(function(){return s})),i.d(n,"transactionsAtom",(function(){return r}));var s,a=i(1146);!function(t){t[t.APPROVAL=0]="APPROVAL",t[t.SWAP=1]="SWAP"}(s||(s={}));var r=Object(a.atomWithImmer)({})}}]);
+//# sourceMappingURL=89.f946c241.chunk.js.map
