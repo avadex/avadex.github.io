@@ -1,0 +1,2 @@
+(this["webpackJsonp@uniswap/widgets"]=this["webpackJsonp@uniswap/widgets"]||[]).push([[82],{640:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return r}));var i=t(1);function r(n){for(var e=arguments.length,t=new Array(e>1?e-1:0),r=1;r<e;r++)t[r-1]=arguments[r];Object(i.useEffect)((function(){return null===n||void 0===n||n.addEventListener.apply(n,t),function(){return null===n||void 0===n?void 0:n.removeEventListener.apply(n,t)}}),[n,t])}}}]);
+//# sourceMappingURL=82.32ef65cd.chunk.js.map
