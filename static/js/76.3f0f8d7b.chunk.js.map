@@ -1,1 +1,1 @@
-{"version":3,"sources":["locales/vi-VN.po"],"names":[],"mappings":"6HAAA,OAAe,cAA0B","file":"static/js/76.3f0f8d7b.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/vi-VN.920817a0.po\";"],"sourceRoot":""}
+{"version":3,"sources":["../../../interface-4.47.0 plus mainrepo(copy) (another copy)/src/locales/vi-VN.po"],"names":[],"mappings":"6HAAA,OAAe,cAA0B","file":"static/js/76.3f0f8d7b.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/vi-VN.920817a0.po\";"],"sourceRoot":""}

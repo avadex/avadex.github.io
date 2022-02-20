@@ -1,1 +1,1 @@
-{"version":3,"sources":["locales/th-TH.po"],"names":[],"mappings":"6HAAA,OAAe,cAA0B","file":"static/js/73.d3903d18.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/th-TH.7b9a2137.po\";"],"sourceRoot":""}
+{"version":3,"sources":["../../../interface-4.47.0 plus mainrepo(copy) (another copy)/src/locales/th-TH.po"],"names":[],"mappings":"6HAAA,OAAe,cAA0B","file":"static/js/73.d3903d18.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/th-TH.7b9a2137.po\";"],"sourceRoot":""}
