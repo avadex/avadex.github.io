@@ -1,2 +1,0 @@
-(this["webpackJsonp@uniswap/widgets"]=this["webpackJsonp@uniswap/widgets"]||[]).push([[67],{977:function(s,i,t){"use strict";t.r(i),i.default=t.p+"static/media/ro-RO.fadbeda1.po"}}]);
-//# sourceMappingURL=67.25baa3a1.chunk.js.map
