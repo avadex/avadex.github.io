@@ -1,0 +1,2 @@
+(this["webpackJsonp@uniswap/widgets"]=this["webpackJsonp@uniswap/widgets"]||[]).push([[62],{972:function(s,i,t){"use strict";t.r(i),i.default=t.p+"static/media/nl-NL.7762e4fb.po"}}]);
+//# sourceMappingURL=62.123a94e8.chunk.js.map
