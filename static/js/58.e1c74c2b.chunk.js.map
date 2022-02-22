@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../../interface-4.47.0 plus mainrepo(copy) (another copy)/src/locales/id-ID.po"],"names":[],"mappings":"6HAAA,OAAe,cAA0B","file":"static/js/58.e1c74c2b.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/id-ID.cfe6e753.po\";"],"sourceRoot":""}
+{"version":3,"sources":["locales/id-ID.po"],"names":[],"mappings":"6HAAA,OAAe,cAA0B","file":"static/js/58.e1c74c2b.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/id-ID.cfe6e753.po\";"],"sourceRoot":""}

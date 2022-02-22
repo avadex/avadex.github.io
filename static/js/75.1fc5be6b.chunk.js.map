@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../../interface-4.47.0 plus mainrepo(copy) (another copy)/src/locales/uk-UA.po"],"names":[],"mappings":"6HAAA,OAAe,cAA0B","file":"static/js/75.1fc5be6b.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/uk-UA.db608a02.po\";"],"sourceRoot":""}
+{"version":3,"sources":["locales/uk-UA.po"],"names":[],"mappings":"6HAAA,OAAe,cAA0B","file":"static/js/75.1fc5be6b.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/uk-UA.db608a02.po\";"],"sourceRoot":""}
